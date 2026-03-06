@@ -1,0 +1,2130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "A1",
+        "name": "สุวรรณภูมิ",
+        "nameEng": "Suvamabhumi",
+        "lineNameEng": "Airport Rail Link",
+        "lineServiceName": "AIRPORTLINK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.75222224366766,
+          13.698430460292863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "A2",
+        "name": "ลาดกระบัง",
+        "nameEng": "Lat Krabang",
+        "lineNameEng": "Airport Rail Link",
+        "lineServiceName": "AIRPORTLINK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.74736600578052,
+          13.727821743748192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "A3",
+        "name": "บ้านทับช้าง",
+        "nameEng": "Ban Thap Chang",
+        "lineNameEng": "Airport Rail Link",
+        "lineServiceName": "AIRPORTLINK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.69131829068533,
+          13.732814119012762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "A4",
+        "name": "หัวหมาก",
+        "nameEng": "Hua Mak",
+        "lineNameEng": "Airport Rail Link",
+        "lineServiceName": "AIRPORTLINK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.64517337833085,
+          13.73803476768113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "A5",
+        "name": "รามคำแหง",
+        "nameEng": "Ramkhamhaeng",
+        "lineNameEng": "Airport Rail Link",
+        "lineServiceName": "AIRPORTLINK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60015057327637,
+          13.743032742356274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "A6",
+        "name": "มักกะสัน",
+        "nameEng": "Makkasan",
+        "lineNameEng": "Airport Rail Link",
+        "lineServiceName": "AIRPORTLINK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56075394308388,
+          13.751188237864156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "A7",
+        "name": "ราชปรารภ",
+        "nameEng": "Ratchaprarop",
+        "lineNameEng": "Airport Rail Link",
+        "lineServiceName": "AIRPORTLINK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54212229725891,
+          13.755199349761293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "A8",
+        "name": "พญาไท",
+        "nameEng": "Phaya Thai",
+        "lineNameEng": "Airport Rail Link",
+        "lineServiceName": "AIRPORTLINK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53484178279176,
+          13.75676690283936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N1",
+        "name": "ราชเทวี",
+        "nameEng": "Ratchathewi",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53156656878942,
+          13.752248022189246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N2",
+        "name": "พญาไท",
+        "nameEng": "Phaya Thai",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53365402461276,
+          13.756745632860385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N3",
+        "name": "อนุสาวรีย์ชัยสมรภูมิ",
+        "nameEng": "Victory Monument",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53711718413088,
+          13.762938881452484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N4",
+        "name": "สนามเป้า",
+        "nameEng": "Sanam Pao",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54204935344816,
+          13.772850397420301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N5",
+        "name": "อารีย์",
+        "nameEng": "Ari",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54461132717519,
+          13.780301866846923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N7",
+        "name": "สะพานควาย",
+        "nameEng": "Saphan Khwai",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54976314180179,
+          13.793880903855163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N8",
+        "name": "หมอชิต",
+        "nameEng": "Mo Chit",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55382026878978,
+          13.802504289971855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N9",
+        "name": "ห้าเเยกลาดพร้าว",
+        "nameEng": "Ha Yaek Lat Phrao",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56185343810698,
+          13.816606684692351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N10",
+        "name": "พหลโยธิน 24",
+        "nameEng": "Phahon Yothin 24",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56646043840226,
+          13.824269605653896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N11",
+        "name": "รัชโยธิน",
+        "nameEng": "Ratchayothin",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5698014724847,
+          13.830174955700329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N12",
+        "name": "เสนานิคม",
+        "nameEng": "Sena Nikhom",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57356798228393,
+          13.836599692951639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N13",
+        "name": "มหาวิทยาลัยเกษตรศาสตร์",
+        "nameEng": "Kasetsart University",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57715337063749,
+          13.842610704000288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N14",
+        "name": "กรมป่าไม้",
+        "nameEng": "Royal Forest Department",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58178508208272,
+          13.850616795379002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N15",
+        "name": "บางบัว",
+        "nameEng": "Bang Bua",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5851914221753,
+          13.856254412257238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N16",
+        "name": "กรมทหารราบที่ 11",
+        "nameEng": "11th Infantry Regiment",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59197218393615,
+          13.867694648034218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N17",
+        "name": "วัดพระศรีมหาธาตุ",
+        "nameEng": "Wat Phra Sri Mahathat",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59362743975532,
+          13.870874893672559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N18",
+        "name": "พหลโยธิน 59",
+        "nameEng": "Phahon Yothin 59",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60186565510014,
+          13.88431056682685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N19",
+        "name": "สายหยุด",
+        "nameEng": "Sai Yud",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60429199742786,
+          13.888712784667977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N20",
+        "name": "สะพานใหม่",
+        "nameEng": "Saphan Mai",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60905955793811,
+          13.896956992745794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N21",
+        "name": "โรงพยาบาลภูมิพลอดุลยเดช",
+        "nameEng": "Bhumibol Adulyadej Hospital",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61740475695369,
+          13.910392988904585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N22",
+        "name": "พิพิธภัณฑ์กองทัพอากาศ",
+        "nameEng": "Royal Thai Air Force Museum",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.62176864160907,
+          13.918122025575327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N23",
+        "name": "แยก คปอ.",
+        "nameEng": "Yaek Kor Por Aor",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.624499950081,
+          13.922528836360181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "N24",
+        "name": "คูคต",
+        "nameEng": "Khu Khot",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6466589000598,
+          13.932436493523184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E1",
+        "name": "ชิดลม",
+        "nameEng": "Chit Lom",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54304612550327,
+          13.744217959750484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E2",
+        "name": "เพลินจิต",
+        "nameEng": "Phioen Chit",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54892028938575,
+          13.743127851312238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E3",
+        "name": "นานา",
+        "nameEng": "Nana",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55539554457523,
+          13.74065792367767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E4",
+        "name": "อโศก",
+        "nameEng": "Asok",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5603185300622,
+          13.737260198155443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E5",
+        "name": "พร้อมพงษ์",
+        "nameEng": "Phrom Phong",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56972010453384,
+          13.730517783678884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E6",
+        "name": "ทองหล่อ",
+        "nameEng": "Thong Lo",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57841664529883,
+          13.724318068456554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E7",
+        "name": "เอกมัย",
+        "nameEng": "EkKamai",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58508956878921,
+          13.719681131142204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E8",
+        "name": "พระโขนง",
+        "nameEng": "Phra Khanong",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59124906878925,
+          13.71526749657004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E9",
+        "name": "อ่อนนุช",
+        "nameEng": "On Nut",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60100615404555,
+          13.705801907627764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E10",
+        "name": "บางจาก",
+        "nameEng": "Bang Chak",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60531167308088,
+          13.696909391258025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E11",
+        "name": "ปุณณวิถี",
+        "nameEng": "Punnawithi",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60897626878906,
+          13.689579712143523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E12",
+        "name": "อุดมสุข",
+        "nameEng": "Udom Suk",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60970742645968,
+          13.6802523063441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E13",
+        "name": "บางนา",
+        "nameEng": "Bang Na",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60465958079922,
+          13.66829179589722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E14",
+        "name": "เเบริ่ง",
+        "nameEng": "Bearing",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60177703315702,
+          13.661404213521596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E15",
+        "name": "สำโรง",
+        "nameEng": "Samrong",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59563885187976,
+          13.646424276382273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E16",
+        "name": "ปู่เจ้า",
+        "nameEng": "Pu Chao",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59195412328135,
+          13.637366374405593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E17",
+        "name": "ช้างเอราวัณ",
+        "nameEng": "Chang Erawan",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59012321111798,
+          13.621747404455762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E18",
+        "name": "โรงเรียนนายเรือ",
+        "nameEng": "Royal Thai Naval Academy",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5949813375639,
+          13.60857122198038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E19",
+        "name": "ปากน้ำ",
+        "nameEng": "Pak Nam",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59710814762467,
+          13.602193582628065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E20",
+        "name": "ศรีนครินทร์",
+        "nameEng": "Srinagarindra",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60893818412991,
+          13.592214559033803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E21",
+        "name": "เเพรกษา",
+        "nameEng": "Phraek Sa",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60801626878843,
+          13.58450127824605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E22",
+        "name": "สายลวด",
+        "nameEng": "Sai Luat",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60537062645916,
+          13.577814638285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "E23",
+        "name": "เคหะฯ",
+        "nameEng": "Kheha",
+        "lineNameEng": "Sukhumvit Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60771318412975,
+          13.56804330854503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "CEN",
+        "name": "สยาม",
+        "nameEng": "siam",
+        "lineNameEng": "CEN",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53409458820424,
+          13.745853021832763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "W1",
+        "name": "สนามกีฬาเเห่งชาติ",
+        "nameEng": "National Stadium",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5290515399541,
+          13.746670999230194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S1",
+        "name": "ราชดำริ",
+        "nameEng": "Ratchadamri",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53952796814953,
+          13.739653868626046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S2",
+        "name": "ศาลาเเดง",
+        "nameEng": "Sala Daeng",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53410615745476,
+          13.728687365842067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S3",
+        "name": "ช่องนนทรี",
+        "nameEng": "Chong Nonsi",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52943246607377,
+          13.724106467759407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S4",
+        "name": "เซนต์หลุยส์",
+        "nameEng": "Saint Louis",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52679238745989,
+          13.721305913590752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S5",
+        "name": "สุรศักดิ์",
+        "nameEng": "Surasak",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52145153904159,
+          13.719537125325928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S6",
+        "name": "สะพานตากสิน",
+        "nameEng": "Saphan Taksin",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51397509590281,
+          13.719002878876935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S7",
+        "name": "กรุงธนบุรี",
+        "nameEng": "Krung Thon Buri",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5027129343507,
+          13.721115982557249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S8",
+        "name": "วงเวียนใหญ่",
+        "nameEng": "Wongwian Yai",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4951375507303,
+          13.721342669730914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S9",
+        "name": "โพธิ์นิมิตร",
+        "nameEng": "Pho Nimit",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48587065727378,
+          13.719358060183657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S10",
+        "name": "ตลาดพลู",
+        "nameEng": "Talat Phlu",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47680359693724,
+          13.714400461102041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S11",
+        "name": "วุฒากาศ",
+        "nameEng": "Wutthakat",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46879708228315,
+          13.713278450460455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "S12",
+        "name": "บางหว้า",
+        "nameEng": "Bang Wa",
+        "lineNameEng": "Silom Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45780458752814,
+          13.720728925451862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "G1",
+        "name": "กรุงธนบุรี",
+        "nameEng": "Krung Thon Buri",
+        "lineNameEng": "Gold Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.503749966034,
+          13.721193938044461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "G2",
+        "name": "เจริญนคร",
+        "nameEng": "Charoen Nakhon",
+        "lineNameEng": "Gold Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50907732292256,
+          13.726671674714577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "G3",
+        "name": "คลองสาน",
+        "nameEng": "Khlong San",
+        "lineNameEng": "Gold Line",
+        "lineServiceName": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5076052495556,
+          13.730456353504387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL01",
+        "name": "ท่าพระ",
+        "nameEng": "Tha Phra",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4742004448221,
+          13.729722983478364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL02",
+        "name": "จรัญฯ 13",
+        "nameEng": "Charan 13",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47075309559493,
+          13.739730055636807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL03",
+        "name": "ไฟฉาย",
+        "nameEng": "Fai Chai",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46921446440986,
+          13.755142104744786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL04",
+        "name": "บางขุนนนท์",
+        "nameEng": "Bang Khun Non",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47327103704303,
+          13.763217324890144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL05",
+        "name": "บางยี่ขัน",
+        "nameEng": "Bang Yi Khan",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48526026973762,
+          13.777546963728195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL06",
+        "name": "สิรินธร",
+        "nameEng": "Sirindhorn",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49348463563705,
+          13.78413719659457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL07",
+        "name": "บางพลัด",
+        "nameEng": "Bang Phlat",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50497773662762,
+          13.79255760462822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL08",
+        "name": "บางอ้อ",
+        "nameEng": "Bang O",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50970221583698,
+          13.798857016282433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL09",
+        "name": "บางโพ",
+        "nameEng": "Bang Pho",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52105553737543,
+          13.806461962608697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL10",
+        "name": "เตาปูน",
+        "nameEng": "Tao Poon",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53080430385421,
+          13.806251181026438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL11",
+        "name": "บางซื่อ",
+        "nameEng": "Bang Sue",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53916200662879,
+          13.803108363849914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL12",
+        "name": "กำแพงเพรช",
+        "nameEng": "Kamphaeng Phet",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.547558649226,
+          13.798164065798893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL13",
+        "name": "สวนจตุจักร",
+        "nameEng": "Chatuchak Park",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5537895043331,
+          13.802634201491806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL14",
+        "name": "พหลโยธิน",
+        "nameEng": "Phahon Yothin",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56012460981002,
+          13.814375402613187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL15",
+        "name": "ลาดพร้าว",
+        "nameEng": "Lat Phrao",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57357769072922,
+          13.806191889809645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL16",
+        "name": "รัชดาภิเษก",
+        "nameEng": "Ratchadaphisek",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57458106133231,
+          13.799301877960573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL17",
+        "name": "สุทธิสาร",
+        "nameEng": "Sutthisan",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57420948068481,
+          13.789831735021023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL18",
+        "name": "ห้วยขวาง",
+        "nameEng": "Huai Khwang",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57361365746218,
+          13.778609281339378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL19",
+        "name": "ศูนย์วัฒนธรรมแห่งประเทศไทย",
+        "nameEng": "Thailand Cultural Centre",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57026601277938,
+          13.766315395938772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL20",
+        "name": "พระราม 9",
+        "nameEng": "Phra Ram 9",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56557848128595,
+          13.757999460399486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL21",
+        "name": "เพรชบุรี",
+        "nameEng": "Phetchaburi",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56310018888564,
+          13.748825116832812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL22",
+        "name": "สุขุมวิท",
+        "nameEng": "Sukhumvit",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56146787755216,
+          13.738691046347832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL23",
+        "name": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+        "nameEng": "Queen Sirikit National Convention Center",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56007280181026,
+          13.723279398983436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL24",
+        "name": "คลองเตย",
+        "nameEng": "Khlong Toei",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55387331403622,
+          13.722395580602603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL25",
+        "name": "ลุมพินี",
+        "nameEng": "Lumphini",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54570153577502,
+          13.725956809558339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL26",
+        "name": "สีลม",
+        "nameEng": "Si Lom",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5365605650866,
+          13.72942224492929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL27",
+        "name": "สามย่าน",
+        "nameEng": "Sam Yan",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53006029424373,
+          13.732394461214282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL28",
+        "name": "หัวลำโพง",
+        "nameEng": "Hua Lamphong",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51724195465331,
+          13.73795663824731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL29",
+        "name": "วัดมังกร",
+        "nameEng": "Wat Mangkon",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5103155216548,
+          13.742024992821095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL30",
+        "name": "สามยอด",
+        "nameEng": "Sam Yot",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50221957251883,
+          13.74740455656763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL31",
+        "name": "สนามไชย",
+        "nameEng": "Sanam Chai",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49463428542543,
+          13.743994752016738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL32",
+        "name": "อิสรภาพ",
+        "nameEng": "Itsaraphap",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48521267453896,
+          13.738504180650656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL33",
+        "name": "บางไผ่",
+        "nameEng": "Bang Phai",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46523911123427,
+          13.724698796949715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL34",
+        "name": "ท่าเรือบางหว้า",
+        "nameEng": "Bang Wa Pier",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4571986292217,
+          13.72055298366182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL35",
+        "name": "เพรชเกษม 48",
+        "nameEng": "Phetkasem 48",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4456227504867,
+          13.715643495852428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL36",
+        "name": "ภาษีเจริญ",
+        "nameEng": "Phasi Charoen",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.43423020268325,
+          13.712854501431428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL37",
+        "name": "บางแค",
+        "nameEng": "Bang Khae",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4223660833503,
+          13.711914228144721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "BL38",
+        "name": "หลักสอง",
+        "nameEng": "Lak Song",
+        "lineNameEng": "Blue Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41000622699018,
+          13.711001198810953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP01",
+        "name": "คลองบางไผ่",
+        "nameEng": "Khlong Bang Phai",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4082347399549,
+          13.892301215199893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP02",
+        "name": "ตลาดบางใหญ่",
+        "nameEng": "Talad Bang Yai",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.40923523317544,
+          13.881082250349912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP03",
+        "name": "สามแยกบางใหญ่",
+        "nameEng": "Sam Yaek Bang Yai",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41944534729097,
+          13.87462472389865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP04",
+        "name": "บางพลู",
+        "nameEng": "Bang Phlu",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.43393467813281,
+          13.875642736582137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP05",
+        "name": "บางรักใหญ่",
+        "nameEng": "Bang Rak Yai",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.44490849168169,
+          13.876635219137386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP06",
+        "name": "บางรักน้อยท่าอิฐ",
+        "nameEng": "Bang Rak Noi Tha It",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45617889945063,
+          13.87470819378764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP07",
+        "name": "ไทรม้า",
+        "nameEng": "Sai Ma",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46666689202357,
+          13.870583974257402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP08",
+        "name": "สะพานพระนั่งเกล้า",
+        "nameEng": "Phra Nang Klao Bridge",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48042898374244,
+          13.870393427500014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP09",
+        "name": "แยกนนทบุรี 1",
+        "nameEng": "Yaek Nonthaburi 1",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49480464423618,
+          13.865970975316161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP10",
+        "name": "บางกระสอ",
+        "nameEng": "Bang Krasor",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50427735276402,
+          13.861881047056444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP11",
+        "name": "ศูนย์ราชการนนทบุรี",
+        "nameEng": "Nonthaburi Civic Center",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51324506138889,
+          13.8601467410472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP12",
+        "name": "กระทรวงสาธารณสุข",
+        "nameEng": "Ministry of Public Health",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51478807121238,
+          13.848715431241638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP13",
+        "name": "แยกติวานนท์",
+        "nameEng": "Yaek Tiwanon",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51495046448692,
+          13.839570244672485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP14",
+        "name": "วงศ์สว่าง",
+        "nameEng": "Wong Sawang",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52665114443678,
+          13.830364589458032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP15",
+        "name": "บางซ่อน",
+        "nameEng": "Bang Son",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53270727007772,
+          13.820669937306441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationId": "PP16",
+        "name": "เตาปูน",
+        "nameEng": "Tao Poon",
+        "lineNameEng": "Purple Line",
+        "lineServiceName": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53068271245338,
+          13.806490974183996
+        ]
+      }
+    }
+  ]
+}

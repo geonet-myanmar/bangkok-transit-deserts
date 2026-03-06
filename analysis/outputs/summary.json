@@ -1,0 +1,178 @@
+{
+  "station_count": 125,
+  "core_cells": 5795,
+  "core_area_sq_km": 362.188,
+  "coverage": {
+    "5_min_cells": 874,
+    "5_min_share_pct": 15.1,
+    "10_min_cells": 2661,
+    "10_min_share_pct": 45.9,
+    "15_min_cells": 4116,
+    "15_min_share_pct": 71.0,
+    "beyond_15_min_cells": 1679,
+    "beyond_15_min_share_pct": 29.0
+  },
+  "urban_proxy": {
+    "radius_m": 2000,
+    "min_station_count": 2,
+    "grid_step_m": 250
+  },
+  "top_deserts": [
+    {
+      "cluster_id": "D01",
+      "area_sq_km": 14.938,
+      "centroid_lat": 13.692101,
+      "centroid_lon": 100.551633,
+      "avg_distance_to_station_m": 1518.9,
+      "max_distance_to_station_m": 1994.9,
+      "anchor_stations": [
+        "Punnawithi",
+        "EkKamai",
+        "Bearing"
+      ]
+    },
+    {
+      "cluster_id": "D02",
+      "area_sq_km": 12.188,
+      "centroid_lat": 13.878027,
+      "centroid_lon": 100.583418,
+      "avg_distance_to_station_m": 1518.1,
+      "max_distance_to_station_m": 1989.2,
+      "anchor_stations": [
+        "Phahon Yothin 24",
+        "Saphan Mai",
+        "Ha Yaek Lat Phrao"
+      ]
+    },
+    {
+      "cluster_id": "D03",
+      "area_sq_km": 10.688,
+      "centroid_lat": 13.771462,
+      "centroid_lon": 100.511216,
+      "avg_distance_to_station_m": 1499.2,
+      "max_distance_to_station_m": 1962.0,
+      "anchor_stations": [
+        "Sanam Pao",
+        "Bang Sue",
+        "Bang Khun Non"
+      ]
+    },
+    {
+      "cluster_id": "D04",
+      "area_sq_km": 9.938,
+      "centroid_lat": 13.868912,
+      "centroid_lon": 100.608682,
+      "avg_distance_to_station_m": 1530.9,
+      "max_distance_to_station_m": 1985.6,
+      "anchor_stations": [
+        "Sena Nikhom",
+        "Bhumibol Adulyadej Hospital",
+        "Lat Phrao"
+      ]
+    },
+    {
+      "cluster_id": "D05",
+      "area_sq_km": 8.438,
+      "centroid_lat": 13.757023,
+      "centroid_lon": 100.587972,
+      "avg_distance_to_station_m": 1489.6,
+      "max_distance_to_station_m": 1942.6,
+      "anchor_stations": [
+        "Ramkhamhaeng",
+        "EkKamai",
+        "Huai Khwang"
+      ]
+    },
+    {
+      "cluster_id": "D06",
+      "area_sq_km": 8.188,
+      "centroid_lat": 13.657038,
+      "centroid_lon": 100.613622,
+      "avg_distance_to_station_m": 1509.4,
+      "max_distance_to_station_m": 1920.1,
+      "anchor_stations": [
+        "Srinagarindra",
+        "Bang Na",
+        "Bearing"
+      ]
+    },
+    {
+      "cluster_id": "D07",
+      "area_sq_km": 4.625,
+      "centroid_lat": 13.807068,
+      "centroid_lon": 100.499583,
+      "avg_distance_to_station_m": 1475.1,
+      "max_distance_to_station_m": 1901.2,
+      "anchor_stations": [
+        "Sirindhorn",
+        "Bang Pho",
+        "Wong Sawang"
+      ]
+    },
+    {
+      "cluster_id": "D08",
+      "area_sq_km": 4.562,
+      "centroid_lat": 13.731529,
+      "centroid_lon": 100.439762,
+      "avg_distance_to_station_m": 1513.9,
+      "max_distance_to_station_m": 1957.7,
+      "anchor_stations": [
+        "Phetkasem 48",
+        "Fai Chai",
+        "Bang Phai"
+      ]
+    },
+    {
+      "cluster_id": "D09",
+      "area_sq_km": 4.125,
+      "centroid_lat": 13.887411,
+      "centroid_lon": 100.447874,
+      "avg_distance_to_station_m": 1492.3,
+      "max_distance_to_station_m": 1909.3,
+      "anchor_stations": [
+        "Bang Rak Yai",
+        "Bang Rak Noi Tha It",
+        "Khlong Bang Phai"
+      ]
+    },
+    {
+      "cluster_id": "D10",
+      "area_sq_km": 3.75,
+      "centroid_lat": 13.590907,
+      "centroid_lon": 100.587869,
+      "avg_distance_to_station_m": 1499.2,
+      "max_distance_to_station_m": 1920.8,
+      "anchor_stations": [
+        "Pak Nam",
+        "Sai Luat",
+        "Chang Erawan"
+      ]
+    },
+    {
+      "cluster_id": "D11",
+      "area_sq_km": 3.312,
+      "centroid_lat": 13.851505,
+      "centroid_lon": 100.489697,
+      "avg_distance_to_station_m": 1493.0,
+      "max_distance_to_station_m": 1909.5,
+      "anchor_stations": [
+        "Phra Nang Klao Bridge",
+        "Yaek Nonthaburi 1",
+        "Sai Ma"
+      ]
+    },
+    {
+      "cluster_id": "D12",
+      "area_sq_km": 2.938,
+      "centroid_lat": 13.862099,
+      "centroid_lon": 100.442521,
+      "avg_distance_to_station_m": 1506.5,
+      "max_distance_to_station_m": 1857.4,
+      "anchor_stations": [
+        "Bang Phlu",
+        "Sai Ma",
+        "Sam Yaek Bang Yai"
+      ]
+    }
+  ]
+}

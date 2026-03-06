@@ -1,0 +1,13 @@
+cluster_id,area_sq_km,centroid_lat,centroid_lon,avg_distance_to_station_m,max_distance_to_station_m,avg_nearby_station_count,anchor_1_name,anchor_1_line,anchor_1_distance_m,anchor_2_name,anchor_2_line,anchor_2_distance_m,anchor_3_name,anchor_3_line,anchor_3_distance_m
+D01,14.938,13.692101,100.551633,1518.9,1994.9,2.9,Punnawithi,Sukhumvit Line,1208.7,EkKamai,Sukhumvit Line,1209.5,Bearing,Sukhumvit Line,1209.8
+D02,12.188,13.878027,100.583418,1518.1,1989.2,2.9,Phahon Yothin 24,Sukhumvit Line,1201.2,Saphan Mai,Sukhumvit Line,1201.7,Ha Yaek Lat Phrao,Sukhumvit Line,1203.5
+D03,10.688,13.771462,100.511216,1499.2,1962.0,3.3,Sanam Pao,Sukhumvit Line,1201.6,Bang Sue,Blue Line,1202.2,Bang Khun Non,Blue Line,1202.7
+D04,9.938,13.868912,100.608682,1530.9,1985.6,2.8,Sena Nikhom,Sukhumvit Line,1200.3,Bhumibol Adulyadej Hospital,Sukhumvit Line,1202.6,Lat Phrao,Blue Line,1205.8
+D05,8.438,13.757023,100.587972,1489.6,1942.6,2.9,Ramkhamhaeng,Airport Rail Link,1201.7,EkKamai,Sukhumvit Line,1207.6,Huai Khwang,Blue Line,1212.2
+D06,8.188,13.657038,100.613622,1509.4,1920.1,2.3,Srinagarindra,Sukhumvit Line,1208.3,Bang Na,Sukhumvit Line,1221.7,Bearing,Sukhumvit Line,1222.5
+D07,4.625,13.807068,100.499583,1475.1,1901.2,2.5,Sirindhorn,Blue Line,1201.6,Bang Pho,Blue Line,1203.1,Wong Sawang,Purple Line,1210.1
+D08,4.562,13.731529,100.439762,1513.9,1957.7,2.7,Phetkasem 48,Blue Line,1213.6,Fai Chai,Blue Line,1218.2,Bang Phai,Blue Line,1229.4
+D09,4.125,13.887411,100.447874,1492.3,1909.3,2.3,Bang Rak Yai,Purple Line,1205.2,Bang Rak Noi Tha It,Purple Line,1220.2,Khlong Bang Phai,Purple Line,1252.1
+D10,3.75,13.590907,100.587869,1499.2,1920.8,2.4,Pak Nam,Sukhumvit Line,1200.3,Sai Luat,Sukhumvit Line,1234.1,Chang Erawan,Sukhumvit Line,1236.6
+D11,3.312,13.851505,100.489697,1493.0,1909.5,2.4,Phra Nang Klao Bridge,Purple Line,1207.6,Yaek Nonthaburi 1,Purple Line,1220.8,Sai Ma,Purple Line,1222.3
+D12,2.938,13.862099,100.442521,1506.5,1857.4,2.2,Bang Phlu,Purple Line,1203.1,Sai Ma,Purple Line,1203.6,Sam Yaek Bang Yai,Purple Line,1216.1
